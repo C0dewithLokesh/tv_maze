@@ -1,0 +1,22 @@
+.movieDetail {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.info {
+    width: 600px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.info .btn {
+    cursor: pointer;
+    border: none;
+    background-color: #343739;
+    color: #f9d3b4;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 4px;
+    margin: 10px;
+}
